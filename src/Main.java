@@ -1,6 +1,6 @@
 import java.awt.BorderLayout;
 import java.awt.Dimension;
-import javax.swing.JFrame;
+import javax.swing.JFrame;sdakfjsklfaskfjklasjfklsdajfklasjfkl;
 import view.Canvas;
 
 
@@ -10,7 +10,7 @@ import view.Canvas;
  * @author Robert C. Duvall
  */
 public class Main {
-    // constants
+    // constants   sdafkjasfjaslfkljkasjlasclsl
     public static final Dimension SIZE = new Dimension(800, 600);
     public static final String TITLE = "Springies!";
 
